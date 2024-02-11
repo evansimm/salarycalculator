@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 #Salary Calculator v2.1
 #Converts annual salary to a hourly rate and vice versa.
+#TODO: add error handling for invalid input
 
 #Print to ask for annual or hourly income and prompt for user input.
 print("Would you like to convert from Annual Income or Hourly Income?\nPress A for Annual or H for Hourly.")
